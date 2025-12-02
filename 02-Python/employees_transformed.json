@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "salary": 75000,
+        "dept": "IT",
+        "updated_salary": 82500.0,
+        "salary_band": "High"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "salary": 65000,
+        "dept": "Sales",
+        "updated_salary": 71500.0,
+        "salary_band": "Medium"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "salary": 85000,
+        "dept": "Finance",
+        "updated_salary": 93500.00000000001,
+        "salary_band": "High"
+    }
+]
