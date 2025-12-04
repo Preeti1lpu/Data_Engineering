@@ -1,0 +1,6 @@
+emp_id,first_name,last_name,salary,department,full_Name
+101,John,Doe,70000.0,IT,John Doe
+102,Mary,NA,80000.0,Finance,Mary NA
+103,NA,Williams,60000.0,Sales,NA Williams
+104,Alan,Smith,0.0,IT,Alan Smith
+105,Reena,Sharma,75000.0,unknown,Reena Sharma

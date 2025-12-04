@@ -1,0 +1,6 @@
+emp_id,first_name,last_name,salary,department
+101,John,Doe,70000,IT
+102,Mary,,80000,Finance
+103,,Williams,60000,Sales
+104,Alan,Smith,,IT
+105,Reena,Sharma,75000,
